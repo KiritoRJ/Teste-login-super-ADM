@@ -1,0 +1,5 @@
+{
+  "name": "Secure Access Portal",
+  "description": "A centralized user management system with an Admin dashboard to register users and a personalized landing page for authenticated members.",
+  "requestFramePermissions": []
+}
